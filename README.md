@@ -1,0 +1,2 @@
+# kopy
+bienvenidosamiplataforma
